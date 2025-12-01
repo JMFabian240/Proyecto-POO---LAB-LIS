@@ -1,0 +1,3 @@
+public enum EstadoIncidencia {
+    NUEVA_ASIGNADA, EN_PROCESO, EN_ESPERA, RESUELTA, CERRADA
+}
